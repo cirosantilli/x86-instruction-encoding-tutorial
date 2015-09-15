@@ -1,0 +1,4 @@
+*.bin
+*.hd
+*.o
+test.asm

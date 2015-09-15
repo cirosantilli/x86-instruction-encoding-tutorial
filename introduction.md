@@ -7,6 +7,8 @@ Convert all assembly inputs `.asm` into decompiled hexdump `.hd`:
 
 Prerequisites: basics of how x86 assembly works, Intel syntax.
 
+More assembly info at: <https://github.com/cirosantilli/assembly-cheat>
+
 To learn, rotate quickly between:
 
 - the examples
